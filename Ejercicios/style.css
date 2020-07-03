@@ -1,0 +1,14 @@
+body{
+     background: linear-gradient(90deg, rgb(1, 77, 87),rgb(1, 107, 54));
+}
+h1{
+     color: #fff;
+     text-align: center;
+
+}
+.app{
+     color: white;
+     text-align: center;
+     border-style: double;
+     border-radius: 10%;
+}
